@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <SbLoading type="spinner" size="x-large" color="primary" />
   </div>
 </template>
